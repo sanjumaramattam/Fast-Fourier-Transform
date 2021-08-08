@@ -38,7 +38,6 @@ void butterfly(struct complex a[], struct complex A[])
 
 int main()
 {   int i,x[1024],b[1024],N,L,k,m,j;
-    //cmplx x[N]={1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0};
     double M,X_mag[1024];
     char sign;
     struct complex X[1024],temp[1024];
